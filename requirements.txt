@@ -1,4 +1,4 @@
-certifi==2018.4.16
+cdcertifi==2018.4.16
 chardet==3.0.4
 idna==2.7
 pyTelegramBotAPI==3.6.3
@@ -7,4 +7,4 @@ six==1.11.0
 telebot==0.0.3
 urllib3==1.23
 textract==1.6.1
-setuptools==40.0.0 
+pocketsphinx==0.1.3
